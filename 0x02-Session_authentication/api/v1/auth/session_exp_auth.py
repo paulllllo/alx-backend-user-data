@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 
 
 class SessionExpAuth(SessionAuth):
-    """Session auth expiration class"""
+    """Session to handle auth expiration"""
     session_dictionary = {}
 
     def __init__(self):
