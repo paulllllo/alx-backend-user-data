@@ -1,3 +1,9 @@
-# Basic authentication
-Authenticating a Flask RestApi using Basic authentication. Basic auth must be done
-over HTTPS because without it they become very insecure.
+A DIr created for ALX SE project authentication
+
+This project cover:
+What authentication means
+What Base64 is
+How to encode a string in Base64
+What Basic authentication means
+How to send the Authorization header
+
